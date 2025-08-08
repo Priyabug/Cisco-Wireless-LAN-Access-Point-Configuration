@@ -6,6 +6,17 @@ In this lab, **Cisco Access Points (APs)** are configured to provide robust and 
 
 ---
 
+## 📡 Access Points Configuration
+
+Under **Access Points** configurations, the following steps are addressed:
+
+1. **🖥️ Configure DHCP Server** — Set up to provide automatic IP addresses to connected devices.  
+2. **📶 Configure APs** — Assign **SSIDs** and secure them with strong **passwords**.  
+3. **💻 Connect PCs** — Ensure PCs are configured to connect to the designated Access Points.  
+4. **✅ Test & Verify** — Check connectivity and confirm DHCP is assigning IPs correctly.
+
+---   
+
 ## 🔧 Configuration Highlights
 
 ### 1. 🌐 SSID and Security Setup  
