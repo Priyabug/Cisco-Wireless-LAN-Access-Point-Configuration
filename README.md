@@ -2,6 +2,9 @@
 
 In this lab, **Cisco Access Points (APs)** are configured to provide robust and secure wireless connectivity within a simulated network environment.
 
+<img width="1757" height="718" alt="image" src="https://github.com/user-attachments/assets/0204ef5e-6b79-4358-8297-945a2f063c3e" />
+
+
 ---
 
 ## 🔧 Configuration Highlights
