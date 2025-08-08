@@ -4,9 +4,22 @@ In this lab, **Cisco Access Points (APs)** are configured to provide robust and 
 
 <img width="1164" height="694" alt="image" src="https://github.com/user-attachments/assets/ca32124e-f277-4127-b4fc-13f582885e2d" />
 
-
-
 ---
+
+📡 Cisco Access Points Configuration Lab
+This lab focuses on configuring Cisco Access Points (APs) to provide reliable and secure wireless connectivity within a network.
+
+🔧 Configuration Highlights
+SSIDs: Configured with unique identifiers for different wireless networks.
+
+Security Protocols: Implemented WPA2 for robust encryption and authentication.
+
+Channel Settings: Optimized to minimize interference and improve performance.
+
+📍 Deployment Strategy
+Strategic Placement: APs positioned to maximize coverage and reduce dead zones.
+
+Power Levels & Antenna Types: Adjusted for optimal signa
 
 ## 🔧 Configuration Highlights
 
